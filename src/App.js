@@ -1,6 +1,7 @@
 import './App.css';
 import Articulo from './componentes/articulo.js';
 
+
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
         precio='1000'
         sku='1234'
         cantidad='10'/>
+        
 
     </div>
   );
