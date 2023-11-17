@@ -7,6 +7,7 @@ function App() {
       <h1>E`COMMERCE</h1>
 
       <Articulo
+        imagen='gift.svg'
         nombre='producto'
         descripcion='el producto es nuevo'
         precio='1000'
