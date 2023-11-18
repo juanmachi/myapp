@@ -14,7 +14,7 @@ function App() {
         precio='1000'
         sku='1234'
         cantidad='10'/>
-        
+
 
     </div>
   );

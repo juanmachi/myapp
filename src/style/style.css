@@ -1,8 +1,19 @@
 .articulo-general{
-    color: rgb(245, 10, 37);
+    color: rgb(73, 10, 245);
+    border: thick solid;
+    border-color: black;
+    width: 400px;
+    margin: 10px;
+    align-items: baseline;
+    display: inline-block;
     
 }
 
 .imagen-articulo{
     width: 200px;
+}
+
+p{
+    text-align: start;
+    margin: 10px;
 }
